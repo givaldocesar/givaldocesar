@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @givaldocesar.
+- 👀 I’m interested in python, IA, Remote Sensing, Image Processing etc.
+- 🌱 I’m currently learning python e pyqgis.
+- 💞️ I’m looking to collaborate on QGIS Plugins.
+- 📫 How to reach me givaldocesar@live.com
