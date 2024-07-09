@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @givaldocesar.
-- 👀 I’m interested in python, IA, Remote Sensing, Image Processing etc.
-- 🌱 I’m currently learning python e pyqgis.
-- 💞️ I’m looking to collaborate on QGIS Plugins.
-- 📫 How to reach me givaldocesar@live.com
+- 👋 Hello, eu sou Givaldo Cesar.
+- 👀 Me interesso por muita coisa, Front-end, Back-end, Python.
+- Utilizo estas ferramentas no trabalho e para pesquisas também.
+- Também programo por hobby, acho divertido! É muito bom quando tudo roda lisinho...
+- 🌱 Ultimamente estou tentando me formar Full-Stacker, porém pretendo me aprofundar em pyqgis para tentar criar umas ferramentas da hora.
+- 📫 A melhor forma de contato é o email >>> givaldocesar@live.com
